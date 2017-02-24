@@ -85,7 +85,7 @@ dt {
 
 dd {
   margin-bottom: .5rem;
-  margin-left: 0;
+  margin-right: 0;
 }
 
 blockquote {
@@ -195,12 +195,12 @@ caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
   color: #636c72;
-  text-align: left;
+  text-align: right;
   caption-side: bottom;
 }
 
 th {
-  text-align: left;
+  text-align: right;
 }
 
 label {

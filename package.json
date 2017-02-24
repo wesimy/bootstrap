@@ -68,6 +68,7 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-exec": "^1.0.1",
     "grunt-jekyll": "^0.4.6",
+    "grunt-rtlcss": "^2.0.1",
     "grunt-saucelabs": "^9.0.0",
     "grunt-stamp": "^0.3.0",
     "htmlhint": "^0.9.13",
