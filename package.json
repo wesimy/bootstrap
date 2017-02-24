@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap",
-  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "name": "rtl-bootstrap",
+  "description": "The RTL version of the most popular front-end framework for developing responsive, mobile first projects on the web.",
   "version": "4.0.0-alpha.6",
   "keywords": [
     "css",
@@ -9,12 +9,15 @@
     "responsive",
     "front-end",
     "framework",
-    "web"
+    "web",
+    "rtl",
+    "bootstrap"
   ],
-  "homepage": "https://getbootstrap.com",
-  "author": "The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)",
+  "homepage": "https://getrtlbootstrap.com",
+  "author": "Moataz Elwesimy",
   "contributors": [
-    "Twitter, Inc."
+    "The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)",
+      "Mohammad Younes https://github.com/MohammadYounes"
   ],
   "scripts": {
     "change-version": "node grunt/change-version.js",
@@ -39,10 +42,10 @@
   "main": "dist/js/bootstrap",
   "repository": {
     "type": "git",
-    "url": "https://github.com/twbs/bootstrap.git"
+    "url": "https://github.com/wesimy/bootstrap"
   },
   "bugs": {
-    "url": "https://github.com/twbs/bootstrap/issues"
+    "url": "https://github.com/wesimy/bootstrap/issues"
   },
   "license": "MIT",
   "dependencies": {
