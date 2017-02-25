@@ -5,7 +5,7 @@
 Package.describe({
   name: 'wesimy:rtlbootstrap',  // https://atmospherejs.com/twbs/bootstrap
   summary: 'RTL Bootstrap 4',
-  version: '4.0.0-alpha.6',
+  version: '4.0.0-alpha.7',
   git: 'https://github.com/wesimy/bootstrap.git'
 });
 

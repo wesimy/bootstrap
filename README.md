@@ -31,11 +31,11 @@ To get started, check out <https://getrtlbootstrap.com>!
 
 Several quick start options are available:
 
-- [Download the latest release.](https://github.com/twbs/bootstrap/archive/v4.0.0-alpha.6.zip)
+- [Download the latest release.](https://github.com/twbs/bootstrap/archive/v4.0.0-alpha.7.zip)
 - Clone the repo: `git clone https://github.com/wesimy/rtlbootstrap.git`
-- Install with [npm](https://www.npmjs.com): `npm install rtlbootstrap@4.0.0-alpha.6`
-- Install with [Composer](https://getcomposer.org): `composer require rtlbootstrap/bootstrap:4.0.0-alpha.6`
-- Install with [Bower](https://bower.io): `bower install rtlbootstrap#v4.0.0-alpha.6`
+- Install with [npm](https://www.npmjs.com): `npm install rtlbootstrap@4.0.0-alpha.7`
+- Install with [Composer](https://getcomposer.org): `composer require rtlbootstrap/bootstrap:4.0.0-alpha.7`
+- Install with [Bower](https://bower.io): `bower install rtlbootstrap#v4.0.0-alpha.7`
 
 Read the [Getting started page](https://getrtlbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
 
