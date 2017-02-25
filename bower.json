@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap",
-  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "name": "rtlbootstrap",
+  "description": "RTL Bootstrap 4",
   "keywords": [
     "css",
     "js",
@@ -11,7 +11,7 @@
     "framework",
     "web"
   ],
-  "homepage": "https://getbootstrap.com",
+  "homepage": "https://getrtlbootstrap.com",
   "license": "MIT",
   "moduleType": "globals",
   "main": [

@@ -118,7 +118,7 @@ module.exports = function (grunt) {
           'js/src/tooltip.js',
           'js/src/popover.js'
         ],
-                dest: 'dist/js/<%= pkg.name %>.js'
+                dest: 'dist/js/bootstrap.js'
             }
         },
 
@@ -265,29 +265,29 @@ module.exports = function (grunt) {
             }
         },
 
-        rtlcss: {
-            flip: {
-                // task options 
-                options: {
-                    // generate source maps 
-                    map: {
-                        inline: false
-                    },
-                    // rtlcss options 
-                    opts: {
-                        clean: false
-                    },
-                    // rtlcss plugins 
-                    plugins: [],
-                    // save unmodified files 
-                    saveUnmodified: true,
-                },
-                expand: true,
-                cwd: 'dist/',
-                src: '**/*.css',
-                dest: 'dist/'
-            }
-        }
+//        rtlcss: {
+//            flip: {
+//                // task options 
+//                options: {
+//                    // generate source maps 
+//                    map: {
+//                        inline: false
+//                    },
+//                    // rtlcss options 
+//                    opts: {
+//                        clean: false
+//                    },
+//                    // rtlcss plugins 
+//                    plugins: [],
+//                    // save unmodified files 
+//                    saveUnmodified: true,
+//                },
+//                expand: true,
+//                cwd: 'dist/',
+//                src: '**/*.css',
+//                dest: 'dist/'
+//            }
+//        }
 
     })
 
@@ -342,7 +342,7 @@ module.exports = function (grunt) {
     // CSS distribution task.
     grunt.registerTask('sass-compile', ['exec:sass', 'exec:sass-docs'])
 
-    grunt.registerTask('dist-css', ['sass-compile', 'rtlcss', 'exec:postcss', 'exec:clean-css', 'exec:clean-css-docs'])
+    grunt.registerTask('dist-css', ['sass-compile', 'exec:postcss', 'exec:clean-css', 'exec:clean-css-docs'])
 
     // Full distribution task.
     grunt.registerTask('dist', ['clean:dist', 'dist-css', 'dist-js'])

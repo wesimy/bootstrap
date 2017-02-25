@@ -3,10 +3,10 @@
 /* global Package:true */
 
 Package.describe({
-  name: 'twbs:bootstrap',  // https://atmospherejs.com/twbs/bootstrap
-  summary: 'The most popular front-end framework for developing responsive, mobile first projects on the web.',
+  name: 'wesimy:rtlbootstrap',  // https://atmospherejs.com/twbs/bootstrap
+  summary: 'RTL Bootstrap 4',
   version: '4.0.0-alpha.6',
-  git: 'https://github.com/twbs/bootstrap.git'
+  git: 'https://github.com/wesimy/bootstrap.git'
 });
 
 Package.onUse(function (api) {

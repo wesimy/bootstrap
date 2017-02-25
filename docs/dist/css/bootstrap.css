@@ -101,6 +101,7 @@ body {
   line-height: 1.5;
   color: #292b2c;
   background-color: #fff;
+  direction: ltr;
 }
 
 [tabindex="-1"]:focus {
@@ -114,7 +115,12 @@ hr {
   overflow: visible;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin-top: 0;
   margin-bottom: .5rem;
 }
@@ -3602,8 +3608,9 @@ tbody.collapse.show {
           background-size: 8px 10px;
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 0.25rem;
-  -moz-appearance: none;
   -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
 }
 
 .custom-select:focus {

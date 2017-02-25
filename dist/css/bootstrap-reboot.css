@@ -28,7 +28,7 @@ body {
   line-height: 1.5;
   color: #292b2c;
   background-color: #fff;
-  direction: rtl;
+  direction: ltr;
 }
 
 [tabindex="-1"]:focus {
@@ -91,7 +91,7 @@ dt {
 
 dd {
   margin-bottom: .5rem;
-  margin-right: 0;
+  margin-left: 0;
 }
 
 blockquote {
@@ -201,12 +201,12 @@ caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
   color: #636c72;
-  text-align: right;
+  text-align: left;
   caption-side: bottom;
 }
 
 th {
-  text-align: right;
+  text-align: left;
 }
 
 label {

@@ -1,4 +1,4 @@
-# [Bootstrap](https://getbootstrap.com)
+# [rtlBootstrap](https://getrtlbootstrap.com)
 
 [![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com)
 ![Bower version](https://img.shields.io/bower/v/bootstrap.svg)
@@ -12,9 +12,9 @@
 
 [![Selenium Test Status](https://saucelabs.com/browser-matrix/bootstrap.svg)](https://saucelabs.com/u/bootstrap)
 
-Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thornton](https://twitter.com/fat), and maintained by the [core team](https://github.com/orgs/twbs/people) with the massive support and involvement of the community.
+RTLBootstrap is a RTL version of Boostrap4.
 
-To get started, check out <https://getbootstrap.com>!
+To get started, check out <https://getrtlbootstrap.com>!
 
 ## Table of contents
 
@@ -32,14 +32,12 @@ To get started, check out <https://getbootstrap.com>!
 Several quick start options are available:
 
 - [Download the latest release.](https://github.com/twbs/bootstrap/archive/v4.0.0-alpha.6.zip)
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
-- Install with [npm](https://www.npmjs.com): `npm install bootstrap@4.0.0-alpha.6`
-- Install with [yarn](https://github.com/yarnpkg/yarn): `yarn add bootstrap@4.0.0-alpha.6`
-- Install with [Composer](https://getcomposer.org): `composer require twbs/bootstrap:4.0.0-alpha.6`
-- Install with [Bower](https://bower.io): `bower install bootstrap#v4.0.0-alpha.6`
-- Install with [NuGet](https://www.nuget.org): CSS: `Install-Package bootstrap -Pre` Sass: `Install-Package bootstrap.sass -Pre` (`-Pre` is only required until Bootstrap v4 has a stable release).
+- Clone the repo: `git clone https://github.com/wesimy/rtlbootstrap.git`
+- Install with [npm](https://www.npmjs.com): `npm install rtlbootstrap@4.0.0-alpha.6`
+- Install with [Composer](https://getcomposer.org): `composer require rtlbootstrap/bootstrap:4.0.0-alpha.6`
+- Install with [Bower](https://bower.io): `bower install rtlbootstrap#v4.0.0-alpha.6`
 
-Read the [Getting started page](https://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
+Read the [Getting started page](https://getrtlbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
 
 ### What's included
 
