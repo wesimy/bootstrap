@@ -56,7 +56,7 @@ Here are the big ticket items you'll want to be aware of when moving from v3 to 
 
 ## By component
 
-This list highlights key changes by component between v3.x.x and v4.0.0.
+This list highlights key changes by component between v3.x.x and v4.0.0-alpha.8.
 
 ### Reboot
 
@@ -241,7 +241,7 @@ Our documentation received an upgrade across the board as well. Here's the low d
 
 ### Responsive utilities
 
-All `@screen-` variables have been removed in v4.0.0. Use the `media-breakpoint-up()`, `media-breakpoint-down()`, or `media-breakpoint-only()` Sass mixins or the `$grid-breakpoints` Sass map instead.
+All `@screen-` variables have been removed in v4.0.0-alpha.8. Use the `media-breakpoint-up()`, `media-breakpoint-down()`, or `media-breakpoint-only()` Sass mixins or the `$grid-breakpoints` Sass map instead.
 
 The responsive utility classes have also been overhauled.
 
