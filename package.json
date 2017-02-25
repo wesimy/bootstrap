@@ -1,7 +1,7 @@
 {
   "name": "rtlbootstrap",
   "description": "Bootstrap 4 RTL",
-  "version": "4.0.0-alpha.7",
+  "version": "4.0.0",
   "keywords": [
     "css",
     "sass",
