@@ -1,5 +1,5 @@
 /*!
- * Bootstrap v4.0.0-alpha.6 (https://getrtlbootstrap.com)
+ * Bootstrap v4.0.0-alpha.6.1 (https://getrtlbootstrap.com)
  * Copyright 2011-2017 Moataz Elwesimy
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
