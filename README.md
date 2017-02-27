@@ -8,7 +8,7 @@
 [![devDependency Status](https://img.shields.io/david/dev/twbs/bootstrap.svg)](https://david-dm.org/twbs/bootstrap?type=dev)
 [![Meteor Atmosphere](https://img.shields.io/badge/meteor-twbs%3Abootstrap-blue.svg)](https://atmospherejs.com/twbs/bootstrap)
 [![Packagist Prerelease](https://img.shields.io/packagist/vpre/twbs/bootstrap.svg)](https://packagist.org/packages/twbs/bootstrap)
-[![NuGet](https://img.shields.io/nuget/vpre/bootstrap.svg)](https://www.nuget.org/packages/bootstrap/4.0.0-alpha.8-alpha5)
+[![NuGet](https://img.shields.io/nuget/vpre/bootstrap.svg)](https://www.nuget.org/packages/bootstrap/4.0.0-alpha.8.1-alpha5)
 
 [![Selenium Test Status](https://saucelabs.com/browser-matrix/bootstrap.svg)](https://saucelabs.com/u/bootstrap)
 
@@ -31,11 +31,11 @@ To get started, check out <https://getrtlbootstrap.com>!
 
 Several quick start options are available:
 
-- [Download the latest release.](https://github.com/twbs/bootstrap/archive/v4.0.0-alpha.8-alpha.7.zip)
+- [Download the latest release.](https://github.com/twbs/bootstrap/archive/v4.0.0-alpha.8.1-alpha.7.zip)
 - Clone the repo: `git clone https://github.com/wesimy/rtlbootstrap.git`
-- Install with [npm](https://www.npmjs.com): `npm install rtlbootstrap@4.0.0-alpha.8-alpha.7`
-- Install with [Composer](https://getcomposer.org): `composer require rtlbootstrap/bootstrap:4.0.0-alpha.8-alpha.7`
-- Install with [Bower](https://bower.io): `bower install rtlbootstrap#v4.0.0-alpha.8-alpha.7`
+- Install with [npm](https://www.npmjs.com): `npm install rtlbootstrap@4.0.0-alpha.8.1-alpha.7`
+- Install with [Composer](https://getcomposer.org): `composer require rtlbootstrap/bootstrap:4.0.0-alpha.8.1-alpha.7`
+- Install with [Bower](https://bower.io): `bower install rtlbootstrap#v4.0.0-alpha.8.1-alpha.7`
 
 Read the [Getting started page](https://getrtlbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
 
